@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Shawn
-- 👀 I’m interested in basketball, buliding legos, and animae
+- 👋 Hi, my name is Shawn Charles.
+- 👀 I’m interested in computer technology, basketball, and building.
 - 🌱 I’m currently learning computer science at Curry College
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... scharles2022@students.curry.edu
